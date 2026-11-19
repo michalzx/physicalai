@@ -28,7 +28,7 @@ camera.connect()
 
 ## Save how an object was created
 
-Add `@export_config` to a class so Physical AI can record the constructor
+Add `@export_config` to a class so OpenVINO Physical AI can record the constructor
 arguments you actually passed (omitted defaults stay omitted).
 
 ```python

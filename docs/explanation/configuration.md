@@ -1,6 +1,6 @@
 # Configuration
 
-Physical AI describes setups in a simple, repeatable way: **pick a Python class**
+OpenVINO Physical AI describes setups in a simple, repeatable way: **pick a Python class**
 and **pass the arguments its constructor needs**. The same description can live in
 Python, YAML, the CLI, or Studio.
 

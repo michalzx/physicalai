@@ -13,7 +13,7 @@ export const KeyCapabilities = () => {
     <Section>
       <h2 className={styles.title}>User Journey</h2>
       <p className={styles.description}>
-        Physical AI Runtime provides the deployment-side components for running trained policies on
+        OpenVINO Physical AI Runtime provides the deployment-side components for running trained policies on
         real hardware. It handles camera capture, robot control, and policy inference with a unified
         API that works across different hardware vendors.
       </p>

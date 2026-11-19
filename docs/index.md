@@ -1,6 +1,6 @@
-# Physical AI Documentation
+# OpenVINO Physical AI Documentation
 
-Physical AI provides runtime components for working with exported robot policies. The documentation is organized around the main deployment tasks and the runtime concepts behind them.
+OpenVINO Physical AI provides runtime components for working with exported robot policies. The documentation is organized around the main deployment tasks and the runtime concepts behind them.
 
 ## Quick Links
 

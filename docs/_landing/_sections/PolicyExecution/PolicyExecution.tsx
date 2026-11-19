@@ -24,7 +24,7 @@ export const PolicyExecution = () => (
         listItems={["batch-based", "stateless", "disconnected from execution"]}
       />
       <PolicyCard
-        title={"Physical AI Runtime"}
+        title={"OpenVINO Physical AI Runtime"}
         listItems={["event-driven", "long-running", "connected to sensors and actuators"]}
       />
       <PolicyCard

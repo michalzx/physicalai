@@ -19,7 +19,7 @@ export const HeroSection = () => {
       <h1 className={clsx(styles.title, styles.gradientTitle)}>Run AI in the real world</h1>
       <h1 className={styles.title}>Reliably, in real time</h1>
       <p className={styles.description}>
-        Physical AI Framework is a production-ready runtime that executes AI policies on physical
+        OpenVINO Physical AI Framework is a production-ready runtime that executes AI policies on physical
         systems - combining real-time inference, flexible execution modes, and hardware integration
         in one unified platform.
       </p>
@@ -43,7 +43,7 @@ export const HeroSection = () => {
           maxIconWidth={64}
           iconUrl={physicalBehavior}
           title="Dependable Physical Behavior"
-          description="Physical AI emphasizes dependable behavior in dynamic environments, prioritizing timing, coordination, and safety over just prediction accuracy."
+          description="OpenVINO Physical AI emphasizes dependable behavior in dynamic environments, prioritizing timing, coordination, and safety over just prediction accuracy."
         />
 
         <CardDetails
