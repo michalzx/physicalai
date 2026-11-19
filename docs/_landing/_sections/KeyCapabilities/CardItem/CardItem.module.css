@@ -1,0 +1,15 @@
+.item {
+  overflow: hidden;
+  border-radius: 8px;
+  border-width: 1px;
+  background: #ffffff;
+
+  div {
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    background: #111f3e;
+  }
+}
